@@ -1,0 +1,14 @@
+{
+  "name": "saint leu",
+  "meteo": "peu ensoleillé",
+  "temperatureEau": "19",
+  "TemperatureAir": "25",
+  "drapeauMer": "vert",
+  "drapeauRequin": "orange",
+  "drapeauActivité": "rouge",
+  "profondeur": "250",
+  "listeActivité": {
+    "ativité1": "surf",
+    "ativité2": "paddle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "saint-leu centre",
+  "meteo": "soleil",
+  "temperatureEau": "19",
+  "TemperatureAir": "25",
+  "drapeauMer": "rouge",
+  "drapeauRequin": "rouge",
+  "drapeauActivité": "rouge",
+  "profondeur": "250",
+  "listeActivité": {
+    "ativité1": "surf",
+    "ativité2": "paddle",
+    "ativité3": "kiteSurf"
+  }
+}

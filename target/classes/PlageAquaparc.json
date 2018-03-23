@@ -1,0 +1,14 @@
+{
+  "name": "aquaparc",
+  "meteo": "nuage",
+  "temperatureEau": "18",
+  "TemperatureAir": "30",
+  "drapeauMer": "vert",
+  "drapeauRequin": "orange",
+  "drapeauActivité": "rouge",
+  "profondeur": "600",
+  "listeActivité": {
+    "ativité1": "surf"
+
+  }
+}

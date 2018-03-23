@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.sun.jersey:jersey-bundle:1.18.3">
+    <archive path="C:/Users/Quentin/.m2/repository/com/sun/jersey/jersey-bundle/1.18.3/jersey-bundle-1.18.3.jar" />
+  </library>
+  <library name="Maven: javax.ws.rs:jsr311-api:1.1.1">
+    <archive path="C:/Users/Quentin/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jersey.media:jersey-media-json-processing:unknown" />
+  <library name="Maven: org.glassfish:javax.json:1.1">
+    <archive path="C:/Users/Quentin/.m2/repository/org/glassfish/javax.json/1.1/javax.json-1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,14 @@
+{
+  "name": "ronoiresche ",
+  "meteo": "pluie",
+  "temperatureEau": "19",
+  "TemperatureAir": "25",
+  "drapeauMer": "oranget",
+  "drapeauRequin": "orange",
+  "drapeauActivité": "orange",
+  "profondeur": "250",
+  "listeActivité": {
+    "ativité1": "surf",
+    "ativité2": "paddle"
+  }
+}

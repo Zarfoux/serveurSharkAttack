@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.glassfish.jersey.media:jersey-media-json-processing:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-json-processing/unknown/jersey-media-json-processing-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-json-processing/unknown/jersey-media-json-processing-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-json-processing/unknown/jersey-media-json-processing-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

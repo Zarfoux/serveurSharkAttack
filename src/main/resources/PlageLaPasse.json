@@ -1,0 +1,14 @@
+{
+  "name": "la passe",
+  "meteo": "soleil",
+  "temperatureEau": "25",
+  "TemperatureAir": "30",
+  "drapeauMer": "vert",
+  "drapeauRequin": "orange",
+  "drapeauActivité": "rouge",
+  "profondeur": "250",
+  "listeActivité": {
+    "ativité1": "surf",
+    "ativité2": "paddle"
+  }
+}
